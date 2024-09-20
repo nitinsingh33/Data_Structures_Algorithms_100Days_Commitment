@@ -7,6 +7,6 @@ public class Q2 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int area = a*b;
-        System.out.println("Area of square is: " + area)
+        System.out.println("Area of square is: " + area);
     }
 }
